@@ -32,7 +32,7 @@ Follow these steps to go from cloning the repo to a running system.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/spring-boot-keycloak-integration.git
+git clone https://github.com/sofahoba/spring-boot-keycloak-integration.git
 ```
 ### 2.Start Keycloak
 ```bash
