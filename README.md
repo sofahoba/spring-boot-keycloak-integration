@@ -6,7 +6,7 @@
 
 ## 📖 The Main Idea
 
-This project demonstrates a robust implementation of **Identity and Access Management (IAM)** using **Spring Boot 3** and **Keycloak 25**.
+This project demonstrates a robust implementation of **Identity and Access Management (IAM)** using **Spring Boot 4** and **Keycloak**.
 
 Instead of handling user passwords and sessions within the Spring application, we offload authentication to Keycloak (an OAuth2/OIDC provider). The Spring Boot application acts as a **Resource Server** that verifies JWT tokens and enforces **Role-Based Access Control (RBAC)**.
 
