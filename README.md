@@ -1,7 +1,7 @@
 # Spring Boot + Keycloak Integration
 
 <div align="center">
-    <img src="https://miro.medium.com/1*xnkH1MjqmcAEuoAeTvlpYw.png" alt="Spring Boot + Keycloak" width="100%">
+    <img src="https://miro.medium.com/1*xnkH1MjqmcAEuoAeTvlpYw.png" alt="Spring Boot + Keycloak" width="50%">
 </div>
 
 ## 📖 The Main Idea
